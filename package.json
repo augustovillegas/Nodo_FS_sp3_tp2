@@ -1,0 +1,16 @@
+{
+  "name": "nodo-sprint3-tp3",
+  "version": "1.0.0",
+  "description": "Sprint 3 - Trabajo practico 2",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "Augusto Villegas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
+}
